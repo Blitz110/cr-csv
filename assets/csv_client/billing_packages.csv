@@ -1,6 +1,6 @@
 "Name","TID","Disabled","ExistsApple","ExistsAndroid","ExistsKunlun","ExistsJupiter","Diamonds","USD","RMB","Order","IconFile","LenovoID","CoolpadID","JupiterID","HuaweiID","KunlunID","StarterPackName","IsRedPackage","RumblePackName","ChronosOfferName","RedeemMax","CampaignId","SeasonPassName"
 "String","String","boolean","boolean","boolean","boolean","boolean","int","int","int","int","string","int","int","String","int","int","String","boolean","String","String","int","int","string"
-"com.supercell.scroll.gempack0","TID_DIAMOND_PACK_1",,"TRUE","TRUE","TRUE","TRUE",500,499,3000,1,"shop_gems02",49026,2,"GD2016061215330106019057",2101002,21011002,,,,,,,
+"com.supercell.scroll.gempack0","TID_DIAMOND_PACK_1",,"TRUE","TRUE","TRUE","TRUE",8000,499,3000,1,"shop_gems02",49026,2,"GD2016061215330106019057",2101002,21011002,,,,,,,
 "com.supercell.scroll.gempack1","TID_DIAMOND_PACK_2",,"TRUE","TRUE","TRUE","TRUE",1200,999,6800,2,"shop_gems03",49027,3,"GD2016061215323806381524",2101003,21011003,,,,,,,
 "com.supercell.scroll.gempack2","TID_DIAMOND_PACK_3",,"TRUE","TRUE","TRUE","TRUE",2500,1999,12800,3,"shop_gems04",49028,4,"GD2016061215321706171743",2101004,21011004,,,,,,,
 "com.supercell.scroll.gempack3","TID_DIAMOND_PACK_4",,"TRUE","TRUE","TRUE","TRUE",6500,4999,32800,4,"shop_gems05",49029,5,"GD2016061215315506556451",2101005,21011005,,,,,,,
